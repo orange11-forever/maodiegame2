@@ -1,0 +1,34 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file>image/OIP-C (2).jpg</file>
+    <file>image/OIP-C (3).jpg</file>
+    <file>image/OIP-C.jpg</file>
+    <file>image/OIP-C (1).jpg</file>
+    <file>image/172555e58d9f3681480740715a6cad36.jpg</file>
+    <file>image/73417F82CCD03885D9E180A49C9E0D7C.jpg</file>
+    <file>image/曼波哥我求你了不要再针对我了_爱给网_aigei_com.wav</file>
+    <file>image/曼波三倍曼波_爱给网_aigei_com.wav</file>
+    <file>image/耄耋猫表情包动图 (146)_爱给网_aigei_com.gif</file>
+    <file>image/小奶龙表情包贴纸 (27)_爱给网_aigei_com.png</file>
+    <file>image/小奶龙贴纸表情包_爱给网_aigei_com.png</file>
+    <file>image/894B65A117A268ED6131816821E1117C.jpg</file>
+    <file>image/6825fc13369e9GO7.jpg</file>
+    <file>image/6831b54a86efeuvI.gif</file>
+    <file>image/2_爱给网_aigei_com.jpg</file>
+    <file>image/4C50EE5C4887E5789CE5A8B058B41888.jpg</file>
+    <file>image/1D6FFFF59DE1D5B8BD23B7C1BCAE6FF3.gif</file>
+    <file>image/wsparticle_27_爱给网_aigei_com.png</file>
+    <file>image/宰丹1(zidan1)_爱给网_aigei_com.png</file>
+    <file>image/子弹ak(bullet_ak)_爱给网_aigei_com.png</file>
+    <file>image/我是奶龙今夜星光闪闪_爱给网_aigei_com-soConvert.wav</file>
+    <file>image/奶龙素材PNG (73)_爱给网_aigei_com(1).png</file>
+    <file>image/爆炸特效贴图-1.png</file>
+    <file>image/爆炸特效贴图-2.png</file>
+    <file>image/爆炸特效贴图-3.png</file>
+    <file>image/爆炸特效贴图-4.png</file>
+    <file>image/爆炸特效贴图-5.png</file>
+    <file>image/爆炸特效贴图-6.png</file>
+    <file>image/爆炸特效贴图-7.png</file>
+  </qresource>
+</RCC>

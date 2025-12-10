@@ -1,0 +1,34 @@
+#include"nailong.h"
+#include"config.h"
+Nailong::Nailong()
+{
+    //加载奶龙图片
+    m_nailong.load(NAILONG_PATH);
+    //位置
+    m_nailong_posX=0;
+    m_nailong_posY=0;
+    //矩形边框
+    m_nailong_Rect.setWidth(m_nailong.width());
+    m_nailong_Rect.setHeight(m_nailong.height());
+    //移动
+    m_nailong_Rect.moveTo(m_nailong_posX,m_nailong_posY);
+    //状态
+    m_isFree=true;
+    //速度
+    m_nailong_speed=NAILONG_SPEED;
+}
+void Nailong::updatePosition()
+{   //空闲状态不计算坐标
+    if(m_isFree==true)
+    {
+        return;
+    }
+    m_nailong_posY+=m_nailong_speed;
+    //更新矩形边框位置
+    m_nailong_Rect.moveTo(m_nailong_posX,m_nailong_posY);
+    //超出屏幕外设置为free
+    if(m_nailong_posY>=GAME_HEIGHT+m_nailong_Rect.height())
+    {
+        m_isFree=true;
+    }
+}

@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/new/prefix2">
+    <file>image/我是奶龙今夜星光闪闪_爱给网_aigei_com-soConvert.wav</file>
+    <file>image/曼波三倍曼波_爱给网_aigei_com.wav</file>
+    <file>image/【赛马娘】wow_爱给网_aigei_com.wav</file>
+    <file>image/我是奶龙今夜星光闪闪_爱给网_aigei_com.mp3</file>
+  </qresource>
+</RCC>
